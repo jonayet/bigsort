@@ -1,4 +1,4 @@
-module bigsort.module {
+module bigsort {
     requires java.base;
     requires java.logging;
     requires java.management;
