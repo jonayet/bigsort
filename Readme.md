@@ -57,4 +57,4 @@ docker run bigsort
 * Memory efficiency
 
 # Flowchart
-![](docs/flowchart.svg)
+![](https://raw.githubusercontent.com/jonayet/bigsort/master/docs/flowchart.svg?sanitize=true)
